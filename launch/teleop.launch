@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+  <node name="teleop" pkg="map_my_world" type="teleop" output="screen"/>
+</launch>
